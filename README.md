@@ -1,2 +1,2 @@
 # Linear-Predictive-Coding
-Computer assignment in ECE174
+The objective of this project is to compress the size of a sound signal sent from a transmitter and reconstructed by a receiver without affecting the perceived quality of the sound signal. The problem is relevant in order to optimize information flow over telecommunications networks specifically and in this project, the least squares optimization technique will be utilized in order to find the best approximative solution for the compression of audio data. \texttt{MatLab} is used as a tool to implement the concept.
